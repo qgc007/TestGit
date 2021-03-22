@@ -5,5 +5,6 @@ public class Cat {
 		System.out.println("right---");
 		//left actions
 		//System.out.println("left----");
+		System.out.println("hot_fix---");
 	}
 }
